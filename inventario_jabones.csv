@@ -1,0 +1,16 @@
+id_producto,sucursal,categoria,aroma,stock,precio_unitario
+101,San Salvador,Exfoliante,Lavanda y Miel,150,4.50
+102,San Salvador,Hidratante,Aloe Vera,120,5.00
+103,San Salvador,Relajante,Manzanilla,80,3.75
+104,Santa Ana,Exfoliante,Café y Cacao,95,4.25
+105,Santa Ana,Refrescante,Menta y Eucalipto,110,4.00
+106,Santa Ana,Hidratante,Avena y Coco,130,4.75
+107,San Miguel,Cítrico,Naranja y Canela,70,3.50
+108,San Miguel,Exfoliante,Café y Cacao,60,4.25
+109,San Miguel,Relajante,Lavanda y Miel,90,4.50
+110,La Libertad,Cítrico,Limón y Romero,140,3.80
+111,La Libertad,Hidratante,Aloe Vera,105,5.00
+112,La Libertad,Refrescante,Menta y Eucalipto,85,4.00
+113,Sonsonate,Relajante,Manzanilla,115,3.75
+114,Sonsonate,Hidratante,Avena y Coco,100,4.75
+115,Sonsonate,Cítrico,Naranja y Canela,75,3.50
